@@ -1,1 +1,1 @@
-Python - More classes & objects
+Python more classes and objects
